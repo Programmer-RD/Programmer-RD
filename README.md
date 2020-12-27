@@ -12,6 +12,6 @@ I am Intrested in Machine Learning and Data Science.
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranuga-disansa" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranuga-disansa" />
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ranuga-disansa&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuga-disansa&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
