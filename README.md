@@ -1,6 +1,15 @@
-### Hi there 👋 I am Ranuga-Disansa Welcome to my github account.
-Here are some ideas to get you started:
+### Hi there 👋 
+I am Ranuga-Disansa Welcome to my github account.
+I am Intrested in Machine Learning and Data Science.
+<br>
+
 - 🔭 I’m currently working on ML Projects
 - 🌱 I’m currently learning AI in General
 - 💬 Ask me about Python
-- 📫 How to reach me: https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/
+<a href="https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/">
+  <img align="left" alt="Shreya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
+<br />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
