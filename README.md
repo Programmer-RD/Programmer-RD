@@ -6,6 +6,7 @@ I am Intrested in Machine Learning and Data Science.
 - 🔭 I’m currently working on ML Projects
 - 🌱 I’m currently learning AI in General
 - 💬 Ask me about Python
+- Contact Me : go2ranuga@gmail.com
 <a href="https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/">
   <img align="left" alt="Shreya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
