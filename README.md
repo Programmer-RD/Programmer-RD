@@ -26,11 +26,15 @@ I am a Self-Learning Programmer.
   - Flask Restful
   - Mongodb
   - Firebase
+  - Sockets
+  - OOP
+  - Speech Recognition
 
 - JavaScript
   - ReactJS
   - Firebase
- 
+  - OOP
+  
 - C
   - Arduino
 
