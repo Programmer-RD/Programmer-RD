@@ -7,7 +7,7 @@ I am a Self-Learning Programmer.
 - 💬 Ask me about *Python*
 - Contact Me :
   - Email - go2ranuga@gmail.com 
-  - Github - github.com/Programmer-RD
+  - Github - https://github.com/Programmer-RD
   - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
