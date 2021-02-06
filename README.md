@@ -5,7 +5,7 @@ I am a Self-Learning Programmer.
 - 🔭 I’m currently working on AI Projects *Python*
 - 🌱 I’m currently learning AI *Python*
 - 💬 Ask me about *Python*
-- Contact Me : go2ranuga@gmail.com | https://www.linkedin.com/in/ranuga-d-94a7671b2/
+- Contact Me : Email : go2ranuga@gmail.com | LinkedIn :  https://www.linkedin.com/in/ranuga-d-94a7671b2/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
