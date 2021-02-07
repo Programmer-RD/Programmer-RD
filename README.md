@@ -1,11 +1,14 @@
 ### Hi there 👋 I am Ranuga
+### I am a 13 year. Currently.
 I am Ranuga-Disansa Welcome to my github account.
 I am Intrested in Machine Learning and Data Science and Artifical Inteliigence and Data engineering.
 I am a Self-Learning Programmer.
+- :) Focused on Learning Python in advanced and learning Artifical Intelligence With Python. (:
 - 🔭 I’m currently working on AI Projects *Python*
 - 🌱 I’m currently learning AI *Python*
 - 💬 Ask me about *Python*
 - 2021 Goals : Release a pip package, Learn AI in Python and C/C++ IOT and 3D Modeling.
+- Fun Fact : I love making programming time lapses. :)
 - Contact Me :
   - Email - go2ranuga@gmail.com 
   - Github - https://github.com/Programmer-RD
@@ -64,21 +67,6 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
-
-## Tools
-
-<br>
-
-<img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" />   
-<img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/1200px-Java_Logo.svg.png" width="35" />   
-<img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/768px-Python-logo-notext.svg.png" width="58" />
-<img align="left" Src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="52"/>
-
-<br>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
