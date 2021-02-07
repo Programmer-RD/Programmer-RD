@@ -59,7 +59,7 @@ I am a Self-Learning Programmer.
 <!--START_SECTION:waka-->
 ```text
 
-Daily: 7 Feb, 2021
+Daily: Today Work
 
 Jupyter Notebook   11 hrs 30 mins   ████████████████████████░   92.50 % 
 Python             00 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
