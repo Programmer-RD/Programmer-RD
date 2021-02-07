@@ -31,7 +31,9 @@ I am a Self-Learning Programmer.
   - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
   
 <hr>
+
 ### How I mange my daily time *Programming*
+
 <br>
 
 <!--START_SECTION:waka-->
