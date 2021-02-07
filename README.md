@@ -31,6 +31,7 @@ I am a Self-Learning Programmer.
   - Firebase
   - Sockets
   - OOP
+  - Streamlit
   - Speech Recognition
 
 - JavaScript
@@ -42,8 +43,10 @@ I am a Self-Learning Programmer.
   - Arduino
 
 - Html
+  - Bootstrap
 
 - Css
+  - Bootstrap
 
 <br>
 
