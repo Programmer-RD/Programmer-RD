@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ranuga.
+### Hi there 👋 I am Ranuga. 😃
 #### RD - Programmer-RD
 <hr>
 <br>
@@ -11,7 +11,7 @@ I am Intrested in Machine Learning and Data Science and AI and Data engineering.
 <br>
 I am a Self-Learning Programmer.
 <br>
-- :) Currently Focused on Learning Python in advanced and learning AI With Python. (:
+- 😃 Currently Focused on Learning Python in advanced and learning AI With Python. 😃
 <br>
 - 🔭 I’m currently working on AI Projects *Python*.
 <br>
@@ -21,7 +21,7 @@ I am a Self-Learning Programmer.
 <br>
 - 2021 Goals : Release a pip package, Learn AI in Python and C/C++ IOT and 3D Modeling and Contribute to a open source project,etc...
 <br>
-- Fun Fact : I love making programming time lapses. :)
+- Fun Fact : I love making programming time lapses. 😃
 <br>
 - Contact Me :
   - Email - go2ranuga@gmail.com
