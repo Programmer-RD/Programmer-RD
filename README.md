@@ -80,9 +80,9 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 <br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br>
+
 <img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="500" height="320">
-<br>
+
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 <br>
