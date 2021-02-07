@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Ranuga.
+#### RD - Programmer-RD
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 <br>
@@ -17,13 +18,28 @@ I am a Self-Learning Programmer.
   - Github - https://github.com/Programmer-RD
   
   - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
-  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### How I mange my daily time
 <br>
 
+<!--START_SECTION:waka-->
+```text
+
+Daily: Today Work
+
+Jupyter Notebook   11 hrs 30 mins   ████████████████████████░   92.50 % 
+Python             00 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+```
+
+<!--END_SECTION:waka-->
+
+<br>
+
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD" />
-
 <br>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tech
 
@@ -42,37 +58,20 @@ I am a Self-Learning Programmer.
   - OOP
   - Streamlit
   - Speech Recognition
-
+<hr>
 - JavaScript
   - ReactJS
   - Firebase
   - OOP
-  
+<hr>
 - C
   - Arduino
-
+<hr>
 - Html
   - Bootstrap
-
+<hr>
 - Css
   - Bootstrap
-
-<br>
-
-<!--START_SECTION:waka-->
-```text
-
-Daily: Today Work
-
-Jupyter Notebook   11 hrs 30 mins   ████████████████████████░   92.50 % 
-Python             00 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-
 
 <br>
 
@@ -81,13 +80,11 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 <br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<br>
 <img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="500" height="320">
-
+<br>
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 <br>
-
-# RD - Programmer-RD
 
 :)
