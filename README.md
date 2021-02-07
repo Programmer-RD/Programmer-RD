@@ -61,10 +61,9 @@ I am a Self-Learning Programmer.
 
 Daily: 7 Feb, 2021
 
-Jupyter Notebook   7 hrs 15 mins   ██████████████████████░░░   87.95 % 
-Python             56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-HTML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Jupyter Notebook   11 hrs 30 mins   ████████████████████████░   92.50 % 
+Python             00 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 <!--END_SECTION:waka-->
