@@ -6,21 +6,30 @@
 <br>
 <hr>
 I am Ranuga-Disansa Welcome to my github account.
+<br>
 I am Intrested in Machine Learning and Data Science and AI and Data engineering.
+<br>
 I am a Self-Learning Programmer.
+<br>
 - :) Currently Focused on Learning Python in advanced and learning AI With Python. (:
+<br>
 - 🔭 I’m currently working on AI Projects *Python*.
+<br>
 - 🌱 I’m currently learning AI *Python*.
+<br>
 - 💬 Ask me about *Python*.
+<br>
 - 2021 Goals : Release a pip package, Learn AI in Python and C/C++ IOT and 3D Modeling and Contribute to a open source project,etc...
+<br>
 - Fun Fact : I love making programming time lapses. :)
+<br>
 - Contact Me :
   - Email - go2ranuga@gmail.com
-  
+  <br>
   - Github - https://github.com/Programmer-RD
-  
+  <br>
   - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
-
+  
 <hr>
 ### How I mange my daily time *Programming*
 <br>
