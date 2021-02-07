@@ -61,18 +61,18 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
   - OOP
   - Streamlit
   - Speech Recognition
--------------------------
+
 - JavaScript
   - ReactJS
   - Firebase
   - OOP
--------------------------
+
 - C
   - Arduino
--------------------------
+
 - Html
   - Bootstrap
--------------------------
+
 - Css
   - Bootstrap
 
