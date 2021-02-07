@@ -11,8 +11,11 @@ I am a Self-Learning Programmer.
 - Fun Fact : I love making programming time lapses. :)
 - Contact Me :
   - Email - go2ranuga@gmail.com 
+  
   - Github - https://github.com/Programmer-RD
+  
   - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
+  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
@@ -78,7 +81,9 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 <br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="500" height="320">
+
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 <br>
