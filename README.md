@@ -5,6 +5,7 @@ I am a Self-Learning Programmer.
 - 🔭 I’m currently working on AI Projects *Python*
 - 🌱 I’m currently learning AI *Python*
 - 💬 Ask me about *Python*
+- 2021 Goals : Release a pip package, Learn AI in Python and C/C++ IOT and 3D Modeling.
 - Contact Me :
   - Email - go2ranuga@gmail.com 
   - Github - https://github.com/Programmer-RD
@@ -48,7 +49,26 @@ I am a Self-Learning Programmer.
 - Css
   - Bootstrap
 
+<br>
+
+<!--START_SECTION:waka-->
+```text
+
+Daily: 7 Feb, 2021
+
+Jupyter Notebook   7 hrs 15 mins   ██████████████████████░░░   87.95 % 
+Python         56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+HTML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+<!--END_SECTION:waka-->
+
+<br>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+
 ## Tools
 
 <br>
