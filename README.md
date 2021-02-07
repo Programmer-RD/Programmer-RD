@@ -1,4 +1,7 @@
 ### Hi there 👋 I am Ranuga.
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
+<br>
 I am Ranuga-Disansa Welcome to my github account.
 I am Intrested in Machine Learning and Data Science and AI and Data engineering.
 I am a Self-Learning Programmer.
@@ -70,7 +73,6 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 
 <br>
 
