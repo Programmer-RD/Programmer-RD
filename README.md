@@ -1,16 +1,15 @@
-### Hi there 👋 I am Ranuga
-### I am a 13 year. Currently.
+### Hi there 👋 I am Ranuga.
 I am Ranuga-Disansa Welcome to my github account.
 I am Intrested in Machine Learning and Data Science and Artifical Inteliigence and Data engineering.
 I am a Self-Learning Programmer.
-- :) Focused on Learning Python in advanced and learning Artifical Intelligence With Python. (:
-- 🔭 I’m currently working on AI Projects *Python*
-- 🌱 I’m currently learning AI *Python*
-- 💬 Ask me about *Python*
+- :) Currently Focused on Learning Python in advanced and learning Artifical Intelligence With Python. (:
+- 🔭 I’m currently working on AI Projects *Python*.
+- 🌱 I’m currently learning AI *Python*.
+- 💬 Ask me about *Python*.
 - 2021 Goals : Release a pip package, Learn AI in Python and C/C++ IOT and 3D Modeling.
 - Fun Fact : I love making programming time lapses. :)
 - Contact Me :
-  - Email - go2ranuga@gmail.com 
+  - Email - go2ranuga@gmail.com
   
   - Github - https://github.com/Programmer-RD
   
@@ -63,9 +62,9 @@ I am a Self-Learning Programmer.
 Daily: 7 Feb, 2021
 
 Jupyter Notebook   7 hrs 15 mins   ██████████████████████░░░   87.95 % 
-Python         56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-HTML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python             56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+HTML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 <!--END_SECTION:waka-->
