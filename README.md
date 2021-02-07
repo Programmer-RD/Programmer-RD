@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Ranuga.
 #### RD - Programmer-RD
+<hr>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 <br>
+<hr>
 I am Ranuga-Disansa Welcome to my github account.
 I am Intrested in Machine Learning and Data Science and AI and Data engineering.
 I am a Self-Learning Programmer.
@@ -18,7 +20,9 @@ I am a Self-Learning Programmer.
   - Github - https://github.com/Programmer-RD
   
   - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
-### How I mange my daily time
+
+<hr>
+### How I mange my daily time *Programming*
 <br>
 
 <!--START_SECTION:waka-->
@@ -32,8 +36,7 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
+<hr>
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD" />
