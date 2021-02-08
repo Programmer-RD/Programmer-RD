@@ -107,7 +107,7 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 
 <img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="500" height="320">
 
-![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+<img align="center" src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="500" height="320">
 
 <br>
 
